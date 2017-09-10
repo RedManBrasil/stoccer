@@ -6,13 +6,18 @@ import LeagueList from './components/LeagueList';
 import Team from './components/Team';
 import Menu from './components/Menu';
 import SideMenu from 'react-native-side-menu';
+import LoginForm from './components/LoginForm';
 
 const RouterComponent = () => {
 
   return (
     <Router>
         <Scene key="root" hideNavBar>
-          <Scene key="main" initial>
+          <Scene key="auth" initial>
+            <Scene key="login" component={LoginForm} title="Login" />
+          </Scene>
+
+          <Scene key="main" >
             <Scene key="home" component={Home} title="RedManBrasil" />
           </Scene>
 
