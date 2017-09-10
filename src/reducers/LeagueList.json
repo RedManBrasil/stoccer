@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Brazil",
+    "symbol": "bra"
+  },
+  {
+    "id": 1,
+    "name": "Spain",
+    "symbol": "spa"
+  },
+  {
+    "id": 2,
+    "name": "Germany",
+    "symbol": "ger"
+  },
+  {
+    "id": 3,
+    "name": "United Kingdom",
+    "symbol": "uk"
+  }
+]

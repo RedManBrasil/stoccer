@@ -1,0 +1,125 @@
+{
+  "bra": [
+              {
+                "id": 0,
+                "name": "Flamengo",
+                "mc": 10.2
+              },
+              {
+                "id": 1,
+                "name": "Botafogo",
+                "mc": 8.5
+              },
+              {
+                "id": 2,
+                "name": "Vasco",
+                "mc": 5.8
+              },
+              {
+                "id": 3,
+                "name": "Fluminense",
+                "mc": 7.8
+              },
+              {
+                "id": 4,
+                "name": "Santos",
+                "mc": 7.8
+              },
+              {
+                "id": 5,
+                "name": "São Paulo",
+                "mc": 7.8
+              },
+              {
+                "id": 6,
+                "name": "Corinthias",
+                "mc": 7.8
+              },
+              {
+                "id": 7,
+                "name": "Palmeiras",
+                "mc": 7.8
+              },
+              {
+                "id": 8,
+                "name": "Grêmio",
+                "mc": 7.8
+              },
+              {
+                "id": 9,
+                "name": "Internacional",
+                "mc": 7.8
+              },
+              {
+                "id": 10,
+                "name": "Atlético Mineiro",
+                "mc": 7.8
+              },
+              {
+                "id": 11,
+                "name": "Cruzeiro",
+                "mc": 7.8
+              }
+            ],
+  "spa":[
+                {
+                  "id": 0,
+                  "name": "Barcelona",
+                  "mc": 38.1
+                },
+                {
+                  "id": 1,
+                  "name": "Real Madrid",
+                  "mc": 43.2
+                },
+                {
+                  "id": 2,
+                  "name": "Atletico de Madrid",
+                  "mc": 28.7
+                }
+              ],
+    "ger":[
+                  {
+                    "id": 0,
+                    "name": "Bayern de Munique",
+                    "mc": 40.1
+                  },
+                  {
+                    "id": 1,
+                    "name": "Borussia Dortmund",
+                    "mc": 30.1
+                  }
+                ],
+      "uk":[
+                    {
+                      "id": 0,
+                      "name": "Chelsea",
+                      "mc": 36.7
+                    },
+                    {
+                      "id": 1,
+                      "name": "Arsenal",
+                      "mc": 27.9
+                    },
+                    {
+                      "id": 2,
+                      "name": "Tottenham",
+                      "mc": 28.7
+                    },
+                    {
+                      "id": 3,
+                      "name": "Liverpool",
+                      "mc": 35.8
+                    },
+                    {
+                      "id": 4,
+                      "name": "Manchester City",
+                      "mc": 39.3
+                    },
+                    {
+                      "id": 5,
+                      "name": "Manchester United",
+                      "mc": 33.9
+                    }
+                  ]
+}
