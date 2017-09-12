@@ -14,7 +14,7 @@ class TeamList extends Component {
   }
 
   renderRow(team) {
-    return <TeamItem team={team} />;
+    return <TeamItem team={team}/>;
   }
 
   render() {
@@ -23,6 +23,8 @@ class TeamList extends Component {
       <ListView
         dataSource={this.dataSource}
         renderRow={this.renderRow}
+        contentInset={{bottom: 20}}
+        automaticallyAdjustContentInsets={false}
       />
     );
   }
